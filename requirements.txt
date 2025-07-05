@@ -19,3 +19,4 @@ arxiv
 wikipedia
 duckduckgo-search
 google-search-results
+langchain-groq
